@@ -35,3 +35,6 @@ To achieve this, we will integrate and analyze data from multiple sources:
 + Rent trend graphs to understand the budget requirements for different neighborhoods.
 + Maps that highlight the density of greenery and the frequency of complaints, thus giving a visual representation of the quieter and greener neighborhoods.
 + Comparative analyses to juxtapose rent trends with greenery and noise levels.
+
+#### 4. Decision-Making Support
+The culmination of this project will be a comprehensive code encompassing all the steps from data acquisition to visualization. This will serve as a decision-making tool to identify neighborhoods that are not just within your budget but also align with our desire for a quiet environment rich in greenery. By the end of this project, we will have a clear and data-backed understanding of the best possible areas in NYC to rent our next apartment.
