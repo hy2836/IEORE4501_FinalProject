@@ -6,7 +6,7 @@
 
 ### Description: New York City Apartment Hunt with a Green Twist
 #### 1. Project Overview
-Our apartment lease ends on December 31st, 2023, and Xinyue and I need to find a new home in New York City. We have set a budget and prefer to live in a neighborhood that is quiet with a lot of greenery. As part of the final project for IEOR E4501: Tools For Analytics, my teammate and I are tasked with creating a Jupyter notebook that will help us find a great area to live within our preferences. Leveraging the power of data analysis and visualization, we aim to simplify your apartment-hunting process by providing insightful information about various neighborhoods in NYC.
+Our apartment lease ends on December 31st, 2023, and Xinyue and I need to find a new apartment in New York City. We have set a budget and prefer to live in a neighborhood that is quiet with a lot of greenery. As part of the final project for IEOR E4501: Tools For Analytics, my teammate and I are tasked with creating a Jupyter notebook that will help us find a great area to live within our preferences. Leveraging the power of data analysis and visualization, we aim to simplify your apartment-hunting process by providing insightful information about various neighborhoods in NYC.
 
 #### 2. Data Sources and Methodology
 To achieve this, we will integrate and analyze data from multiple sources:
@@ -22,7 +22,7 @@ To achieve this, we will integrate and analyze data from multiple sources:
 [**NYC Zip Code**](https://drive.google.com/drive/folders/1P89KAFAUAHVZsEcyDYVfD1L7pMeGBvIO?usp=sharing): This dataset provides all the zip codes as part of New York City. This allows us to correctly select the New York City area across the other three datasets above and prevent any confusion as to which counties and areas are part of New York City.
 
 #### 3. Implementation Steps
-**Data Acquisition**: We import the four datasets using APIs while ensuring we have the most relevant data.
+**Data Acquisition**: We import the four datasets as mentioned above using APIs while ensuring we have the most relevant data, where we apply the method that allow to download the large dataset.
 
 **Database Connection**: The data is stored in an SQL database. This helps efficiently manage the data and perform complex queries to extract meaningful insights.
 
