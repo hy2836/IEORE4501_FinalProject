@@ -32,6 +32,6 @@ To achieve this, we will integrate and analyze data from multiple sources:
 
 **Data Visualization**: Utilizing various visualization tools, we create graphical representations of the data. This includes:
 
-+Rent trend graphs to understand the budget requirements for different neighborhoods.
-+Maps that highlight the density of greenery and the frequency of complaints, thus giving a visual representation of the quieter and greener neighborhoods.
-+Comparative analyses to juxtapose rent trends with greenery and noise levels.
++ Rent trend graphs to understand the budget requirements for different neighborhoods.
++ Maps that highlight the density of greenery and the frequency of complaints, thus giving a visual representation of the quieter and greener neighborhoods.
++ Comparative analyses to juxtapose rent trends with greenery and noise levels.
